@@ -10,6 +10,7 @@ brew install nvm
 brew install leiningen
 brew install idris
 brew install sbt
+brew install racket
 
 # Applications
 brew install Caskroom/cask/iterm2
@@ -17,4 +18,4 @@ brew install tree
 brew install jq
 brew install tmux
 brew install fish
-
+brew install mongodb
