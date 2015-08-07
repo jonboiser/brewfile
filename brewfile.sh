@@ -9,6 +9,7 @@ brew install erlang
 brew install nvm
 brew install leiningen
 brew install idris
+brew install sbt
 
 # Applications
 brew install Caskroom/cask/iterm2
@@ -16,3 +17,4 @@ brew install tree
 brew install jq
 brew install tmux
 brew install fish
+
