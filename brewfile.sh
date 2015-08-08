@@ -11,6 +11,8 @@ brew install leiningen
 brew install idris
 brew install sbt
 brew install racket
+brew install elm-platform
+brew install elixir 
 
 # Applications
 brew install Caskroom/cask/iterm2
@@ -19,3 +21,6 @@ brew install jq
 brew install tmux
 brew install fish
 brew install mongodb
+brew install git
+brew install vim
+brew install emacs
