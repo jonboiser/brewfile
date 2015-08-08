@@ -5,47 +5,47 @@ brew update
 brew install caskroom/cask/brew-cask
 
 # Programming languages
-brew install scala --devel
-brew install erlang
-brew install nvm
-brew install leiningen
-brew install idris
-brew install sbt
-brew cask install racket
 brew cask install elm-platform
-brew install elixir 
-brew cask install julia
-brew cask install python3
 brew cask install haskell-platform
 brew cask install java
+brew cask install julia
+brew cask install python3
+brew cask install racket
+brew install elixir 
+brew install erlang
+brew install idris
+brew install leiningen
+brew install nvm
+brew install sbt
+brew install scala --devel
 
 # Applications
-brew cask install iterm2
-brew cask install google-chrome
-brew cask install firefox
-brew cask install seil
-brew cask install karabiner
-brew cask install vlc
-brew cask install dropbox
-brew cask install macvim
 brew cask install bettertouchtool
 brew cask install cleanmymac
-
-brew install tmux
-brew install mongodb
+brew cask install dropbox
+brew cask install firefox
+brew cask install google-chrome
+brew cask install iterm2
+brew cask install karabiner
+brew cask install macvim
+brew cask install seil
+brew cask install vlc
 
 # Command Line Tools
-brew install tree
-brew install jq
-brew install fish
-brew install git
-brew install vim
 brew install emacs
-brew install z
+brew install fish
+brew install gist
+brew install git
+brew install jq
+brew install mongodb
 brew install the_silver_searcher
 brew install tig
+brew install tmux
+brew install tree
+brew install vim
 brew install wget
-brew install gist
+brew install z
+brew install zsh
 
 brew cleanup
 brew cask cleanup
