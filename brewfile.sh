@@ -16,6 +16,8 @@ brew install erlang
 brew install idris
 brew install leiningen
 brew install nvm
+brew install objective-caml
+brew install opam
 brew install sbt
 brew install scala --devel
 
