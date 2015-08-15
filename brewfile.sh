@@ -39,6 +39,7 @@ brew install fish
 brew install gist
 brew install git
 brew install jq
+brew install mc
 brew install mongodb
 brew install the_silver_searcher
 brew install tig
