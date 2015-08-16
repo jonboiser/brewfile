@@ -50,5 +50,9 @@ brew install wget
 brew install z
 brew install zsh
 
+# Fonts
+brew tap caskroom/fonts
+brew cask install font-source-code-pro
+
 brew cleanup
 brew cask cleanup
