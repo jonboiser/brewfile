@@ -22,6 +22,7 @@ brew install sbt
 brew install scala --devel
 
 # Applications
+brew cask install atom
 brew cask install bettertouchtool
 brew cask install cleanmymac
 brew cask install dropbox
