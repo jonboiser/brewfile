@@ -54,6 +54,7 @@ brew install zsh
 # Fonts
 brew tap caskroom/fonts
 brew cask install font-source-code-pro
+brew cask install font-hack
 
 brew cleanup
 brew cask cleanup
